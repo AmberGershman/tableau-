@@ -1,4 +1,5 @@
 <h1>New York CitiBike Expansion</h1>
+<a href=https://public.tableau.com/profile/amber.gershman#!/>Tableau Portfolio</a>
 <h3>2013-2020</h3>
 
 In June 2013, CitiBikes launched their new program – rented bikes with docking stations around Manhattan and Brooklyn. A rider could swipe their credit card and a bicycle would be released, allowing them the freedom to commute without the burden of maintaining their own. 
