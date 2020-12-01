@@ -20,6 +20,7 @@ Station and Ridership Growth: Comparing the rental trends from original stations
 <b>24-Hours of Rentals by Gender</b><br>
 <b>2020 Best and Worst Performing Stations</b><br>
 <b>CitiBike Growth by Year</b><br>
+<b>Mapping CitiBike Journeys</b><br>
 
 
 Check out my Tableau portfolio: https://public.tableau.com/profile/amber.gershman#!/
