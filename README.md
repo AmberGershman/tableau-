@@ -17,9 +17,9 @@ Map Overview: On the first card, we can see station growth by year since 2013. T
 Station and Ridership Growth: Comparing the rental trends from original stations versus newer stations clearly shows that the first docking stations established were impeccably placed. Rentals from those locations exceeded one million by 2016 and only fell below the increased rise of newer stations in 2020. This is quite impressive considering new stations outnumbered the original two to one. 
 
 
-<b>24-Hours of Rentals by Gender</b>
-<b>2020 Best and Worst Performing Stations</b>
-<b>CitiBike Growth by Year</b>
+<b>24-Hours of Rentals by Gender</b><br>
+<b>2020 Best and Worst Performing Stations</b><br>
+<b>CitiBike Growth by Year</b><br>
 
 
 Check out my Tableau portfolio: https://public.tableau.com/profile/amber.gershman#!/
